@@ -88,17 +88,6 @@ Cada campo mostra uma dica ao ser selecionado e uma mensagem de erro clara quand
 - A planilha não calcula o imposto a pagar ou a restituir.
 - Os prints foram gerados com o LibreOffice; no Excel, a aparência pode variar levemente.
 
-## Prints
-
-### TITULAR
-![Tela Titular](prints/1-titular.png)
-
-### INFORMES
-![Tela Informes](prints/2-informes.png)
-
-### NOTAS
-![Tela Notas](prints/3-notas.png)
-
 ## Estrutura do repositório
 
 ```
